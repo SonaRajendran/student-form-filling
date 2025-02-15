@@ -17,13 +17,13 @@ Location selection with district, taluk, and village dropdowns
 Search functionality for student records
 Detailed student information display
 
-# The main.dart file shows this is a Flutter app with:
+## The main.dart file shows this is a Flutter app with:
 A splash screen that displays for 3 seconds
 Navigation to a StudentEntryScreen after the splash
 Uses a welcoming logo from assets
 Has a blue theme
 
-# The student_entry.dart file reveals this is a student data entry form with:
+## The student_entry.dart file reveals this is a student data entry form with:
 Input fields for student personal details (name, email, phone)
 Location selection with district, taluk, and village dropdowns
 Marks input for 5 subjects (Maths, Science, Social, English, Tamil)
@@ -31,7 +31,7 @@ Data validation for email, phone, and marks
 Data storage using SharedPreferences
 Navigation to StudentDetailsScreen after submission
 
-# The student_details.dart file completes the app's functionality by:
+## The student_details.dart file completes the app's functionality by:
 Displaying a list of all submitted student records
 Providing search functionality by name, roll number, phone, or acknowledgment number
 Showing detailed student information in a dialog
